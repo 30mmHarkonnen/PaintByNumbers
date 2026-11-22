@@ -38,3 +38,6 @@ Scale model paint matcher and color mixer
 | MCW Finishes | Enamel | 5 | |
 
 Includes spoon swatches for 366 lacquers, courtesy [PM Paint](https://pm-paint.com/). Refer for full writeup and comparisons.
+
+## Content Warning
+I had to use webp to keep the cards from taking up almost 2 gigs on their own. It hurt my soul to do so and I apologize for any emotional stress this causes.
